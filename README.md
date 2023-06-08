@@ -4,7 +4,7 @@ Projeto desenvolvido em HTML,CSS e Java Script. O site desenvolvido é um conver
 
 🔗 [Click here to access](https://n4ju15.github.io/conversor_unidades/)
 
-[Video_title](./assets/conversor.mp4)
+<img src="./assets/img/conversor.gif">
 
 ## Tecnologias
 
